@@ -17,3 +17,13 @@ function displayAddress(address) {
 }
 
 displayAddress(address);
+
+document.querySelector(".cod").addEventListener("click", cashOnDelevry);
+
+function cashOnDelevry() {
+  var x = document.getElementById("snackbar");
+  x.className = "show";
+  setTimeout(function () {
+    x.className = x.className.replace("show", "");
+  }, 5000);
+}
