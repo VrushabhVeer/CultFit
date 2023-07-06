@@ -32,6 +32,13 @@ To run Cultfit locally, follow these steps:
    ```shell
    git clone https://github.com/VrushabhVeer/CultFit.git
 
+2. Open the project folder:
+
+   ```shell
+   cd CultFit
+
+3. Open index.html in your preferred web browser.
+
 
 ## Preview
 ![cultfit](https://github.com/VrushabhVeer/CultFit/assets/99570200/99b153d1-78c3-4386-8868-825185ce4529)
